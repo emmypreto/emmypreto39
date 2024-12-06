@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 🤟📖
 
-Meu nome e pretoanjo
+###Meu nome chamo **pretoanjo**
 
 - Estuo estudando na [Aula](https://www.alura.com.br)
 - Estuo me desenvolvendo na  Linguage javascript
